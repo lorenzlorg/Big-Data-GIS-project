@@ -1,3 +1,6 @@
+Importo i dati settimanli cosi non ho problemi di griglia e comunque ho più informazioni volendo
+poi raggruppo mensilmente
+
 DATASET TEMPERATURE SUPERFICIALI
 - caratteristiche principali dataset
 - distribuzione variabile principale (istogramma, eventuali boxplot/violin plot ecc)
@@ -24,7 +27,7 @@ Dato che la presenza dei ghiacci si nota solo ai poli concentrarsi sul polo nord
 
 CONFRONTO
 - avere stesso range di anni
-- avere la stesa griglia (interpolazione)
+- avere la stesa griglia (interpolazione) -> queste prime due fasi potrei evitarle se uso dataset nuovi
 - selezionare zona polo nord e polo sud e unico plot con distribuzione temp e ghiaccio
 - far vedere nella stessa area primo mese e ultimo mese andamento temp e ghiaccio
 - confermare che all'aumento di temperatura vi è una diminuzione dei ghiacciai
