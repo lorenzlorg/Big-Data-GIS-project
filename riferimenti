@@ -1,3 +1,10 @@
+dataset:
+https://psl.noaa.gov/data/gridded/data.noaa.oisst.v2.html
+
+
+info dataset ghiacciai
+https://climatedataguide.ucar.edu/climate-data/sea-ice-concentration-data-noaa-oi
+
 diverse proiezioni:
 https://www.icsm.gov.au/education/fundamentals-mapping/projections/commonly-used-map-projections#:~:text=Azimuthal%20Projection%20%E2%80%93%20Stereographic&text=Today%2C%20this%20is%20probably%20one,of%20continents%20such%20as%20Australia.
 
@@ -8,6 +15,7 @@ https://www.repubblica.it/green-and-blue/2022/03/23/news/il_caldo_record_ai_poli
 vedi cartella progetto geo su chrome
 
 
+altri link interessanti:
 [https://ar5-syr.ipcc.ch/topic_observedchanges.php](https://ar5-syr.ipcc.ch/topic_observedchanges.php) argomenti ma potrei accennare qualcosa di teorico
 
 [https://earth-env-data-science.github.io/projects.html](https://earth-env-data-science.github.io/projects.html) elenco progetti
