@@ -2,9 +2,9 @@ Importo i dati settimanli cosi non ho problemi di griglia e comunque ho più inf
 poi raggruppo mensilmente
 
 DATASET TEMPERATURE SUPERFICIALI
-- caratteristiche principali dataset
-- distribuzione variabile principale (istogramma, eventuali boxplot/violin plot ecc)
-- esplorazione variabile principale comprimendo dimensione del tempo - dove ci sono le temp più elevate ecc
+- caratteristiche principali dataset -
+- distribuzione variabile principale (istogramma) -
+- esplorazione variabile principale comprimendo dimensione del tempo - dove ci sono le temp più elevate ecc -
 - esplorazione temp media nei 12 mesi
 - esplorazione temp primo e ultimo mese a disposizione (magari t-test per dire se sono effettivamente diversi o meno)
 - serie storica globale e per celle specifiche - far notare che le temperature si sono alzate negli ultimi anni
