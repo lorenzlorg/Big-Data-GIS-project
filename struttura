@@ -4,9 +4,11 @@ poi raggruppo mensilmente
 DATASET TEMPERATURE SUPERFICIALI
 - caratteristiche principali dataset -
 - distribuzione variabile principale (istogramma) -
-- esplorazione variabile principale comprimendo dimensione del tempo - dove ci sono le temp più elevate ecc -
-- esplorazione temp media nei 12 mesi
+- esplorazione variabile principale nel tempo (ogni 8 anni) -
+- andamento sst per un mese specifico
 - esplorazione temp primo e ultimo mese a disposizione (magari t-test per dire se sono effettivamente diversi o meno)
+- esplorazione temp media nei 12 mesi
+- esplorazione variabile principale comprimendo dimensione del tempo - dove ci sono le temp più elevate ecc -
 - serie storica globale e per celle specifiche - far notare che le temperature si sono alzate negli ultimi anni
 - anomalie di temperature
 (- previsione temperature nel futuro)
@@ -29,6 +31,7 @@ CONFRONTO
 - avere stesso range di anni
 - avere la stesa griglia (interpolazione) -> queste prime due fasi potrei evitarle se uso dataset nuovi
 - selezionare zona polo nord e polo sud e unico plot con distribuzione temp e ghiaccio
+- far vedere stesso grafico le anomalie di temperatura (ci sono anche le anomaly map (assign 4))
 - far vedere nella stessa area primo mese e ultimo mese andamento temp e ghiaccio
 - confermare che all'aumento di temperatura vi è una diminuzione dei ghiacciai
 - Correlation between SST and ICEC grafico, vedi github progetto
