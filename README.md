@@ -30,5 +30,6 @@ della regione antartica. Questo ghiaccio interagisce con molti sistemi globali, 
 climatico, mantenendo fresche le regioni polari. Non da ultimo queste porzioni di ghiaccio interagiscono anche con gli oceani, per mezzo dei quali 
 vi è una ridistribuzione del calore intorno al globo.
 
+[Codice](https://github.com/lorenzlorg/Big-Data-GIS-project/blob/main/progetto_GIS.ipynb)
 
 *Keywords*: Geography, NOAA data, global warming, DataVisualization.
